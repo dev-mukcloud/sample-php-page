@@ -12,7 +12,7 @@ echo "<H1> Hello world! </H1>";
 echo "<p>";
 while ($i< 1000000)
 {
-  echo "i".$i.";";
+  print "i".$i++.";";
 }
 echo "</p>";
   
