@@ -8,9 +8,9 @@ echo "<meta charset=\"utf-8\" />";
 
 echo "</head>";
 echo "<body>";
-echo "<H1> Hello world! </H1>";
+echo "<H1> Hello world! Test GIT </H1>";
 echo "<p>";
-while ($i< 1000000)
+while ($i< 100)
 {
   print "i".$i++.";";
 }
